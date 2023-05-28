@@ -5,12 +5,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p>
+          
+        </p>
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
           Secure Me
         </h1>
         <p>
+          
+        </p>
+        <p>
           Have you been hacked?
+        </p>
+        <p>
+          
         </p>
         <p>
           If you've experienced any of these, you may be compromised:
@@ -21,6 +30,9 @@ function App() {
           <div>3. Lagging or slowed down traffic. </div>
         </div>
         <p>
+          
+        </p>
+        <p>
           Next steps you can take:
         </p>
         <div class="flex-container">
@@ -28,6 +40,9 @@ function App() {
           <div>2. Use a password manager and create strong, unique passwords. </div>
           <div>3. Delete any malicious files or applications you find. </div>
         </div>
+        <p>
+          <br></br>
+        </p>
 
       </header>
     </div>
