@@ -41,4 +41,8 @@ Inside the newly created project, you can run some built-in commands:
 
 ### `npm start` or `yarn start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser in development mode.
+
+To create a production build:
+
+### 'npm run build' or 'yarn build'
