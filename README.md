@@ -1,3 +1,20 @@
+# Secure Me
+
+## Inspiration
+Helping users identify security threats.
+## What it does
+By presenting visual examples of security breaches “Secure Me” will make it simple and clear for a user to confirm or prevent being compromised.    
+## How we built it
+This website was built with Microsoft's Azure template of a basic static website.
+## Challenges we ran into
+With React being the first time the language was used, the template given was hard to ascertain which items did what. 
+## Accomplishments that we're proud of
+“Secure Me” is clean, succinct, and easy for a novice or expert user to understand. 
+## What we learned
+I took away a stronger command of Javascript and how React components are made. 
+## What's next for Secure Me
+To launch interactive modules on how security threats can be initiated.
+
 # React basic
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
