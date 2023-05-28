@@ -6,17 +6,28 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h1>
           Secure Me
+        </h1>
+        <p>
+          Have you been hacked?
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          If you've experienced any of these, you may be compromised:
+        </p>
+        <div class="flex-container">
+          <div>1. Unknown files or applications on your computer. </div>
+          <div>2. Any login attempts that were not made by you. </div>
+          <div>3. Lagging or slowed down traffic. </div>
+        </div>
+        <p>
+          Next steps you can take:
+        </p>
+        <div class="flex-container">
+          <div>1. Stay up to date on any updates and patches. </div>
+          <div>2. Use a password manager and create strong, unique passwords. </div>
+          <div>3. Delete any malicious files or applications you find. </div>
+        </div>
 
       </header>
     </div>
