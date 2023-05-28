@@ -1,4 +1,6 @@
 import React from 'react';
+import logo from './securityLock.svg';
+import './App.css';
 
 function App() {
   const value = 'World';
